@@ -5,6 +5,6 @@
 Game prototype as final project.
 
 Contributors:
-Marina Martins
-Margarida Amaro
+Marina Martins,
+Margarida Amaro,
 João Sanches
