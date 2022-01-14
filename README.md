@@ -1,10 +1,10 @@
-# Design-de-Jogos
+# Greek Tragedy
 
-<h3>Greek Tragedy</h3>
+<h3>Final project for Game Design 2021/2022 IST</h3>
 
-Protótipo para Design de Jogos 21/22
+Game prototype as final project.
 
-
-
-
-Jogo  mt fixe 
+Contributors:
+Marina Martins
+Margarida Amaro
+João Sanches
